@@ -1,5 +1,6 @@
 /**
  * <JAVASCRIPT> PermMissingElem
+ * https://app.codility.com/demo/results/trainingSZ6JJU-T8X/#
  * 
  * 100% CORRECTNESS 
  * 100% PERFORMANCE 
