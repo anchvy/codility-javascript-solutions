@@ -1,5 +1,6 @@
 /**
  * <JAVASCRIPT> BinaryGap
+ * https://app.codility.com/demo/results/training2WJWWQ-U5W/#
  * 
  * 100% CORRECTNESS 
  * 
