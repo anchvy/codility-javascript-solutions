@@ -1,5 +1,6 @@
 /**
  * <JAVASCRIPT> CyclicRotation
+ * https://app.codility.com/demo/results/trainingCG3GWF-VS8/#
  * 
  * 100% CORRECTNESS 
  * 
