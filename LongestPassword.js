@@ -1,5 +1,6 @@
 /** 
  * <JAVASCRIPT> LongestPassword
+ * https://app.codility.com/demo/results/training4DFEKP-SVP/#
  * 
  * 100% CORRECTNESS
  * 
