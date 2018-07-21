@@ -1,5 +1,6 @@
 /** 
  * <JAVASCRIPT> Distinct
+ * https://app.codility.com/demo/results/training7WSFT8-449/#
  * 
  * 100% CORRECTNESS
  * 100% PERFORMANCE
