@@ -1,5 +1,6 @@
 /**
  * <JAVASCRIPT> MissingInteger 
+ * https://app.codility.com/demo/results/trainingPHUYK4-NYN/#
  * 
  * 100% CORRECTNESS
  * 100% PERFORMANCE
